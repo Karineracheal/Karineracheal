@@ -30,9 +30,7 @@ Built from the ground up by a small team — designed, shipped, and iterated in 
 
 ## Product
 
-- **Platform:** iOS & Android (React Native)
-- **Backend:** Supabase (production database + auth + realtime)
-- **Infrastructure:** Cloudflare Workers
+- **Platform:** iOS & Android
 - **Releases:** 25+ shipped
 - **Frontend updates:** 100+ shipped directly in code
 - **Team:** 7 across product, design and engineering
