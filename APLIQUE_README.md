@@ -31,17 +31,6 @@ The average job seeker applies to 100+ roles before landing an offer. Each appli
 
 ---
 
-## Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
----
-
 ## About the Builder
 
 Aplique is built by [Racheal Karine](https://github.com/Karineracheal) — product designer and AI PM. Designed and shipped end to end, from user research through to live product.

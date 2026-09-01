@@ -35,18 +35,6 @@ It's a generative video pipeline designed for non-technical users: no prompt eng
 
 ---
 
-## Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
 ## About the Builder
 
 Moria.ai is designed and built by [Racheal Karine](https://github.com/Karineracheal) — Technical PM and product designer. Designed the full product end to end: from core generative workflow through UX for AI constraints, edit/refine flows, and scene connection.
