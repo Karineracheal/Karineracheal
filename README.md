@@ -108,3 +108,7 @@ implementation, not just strategy.
 ## GitHub Stats
 
 ![Racheal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karineracheal&show_icons=true&hide_border=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Karineracheal&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Karineracheal&color=blue&style=flat&label=Profile+Views)
