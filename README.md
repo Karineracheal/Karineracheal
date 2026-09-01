@@ -1,42 +1,43 @@
 # Hi, I'm Racheal Karine 👋
 
-I build AI products — from 0 to 1 and through scale.
+I build and ship products end to end — design, strategy, and the code in between.
 
-I'm the CEO of [SavhFresh Ltd](https://rachealkarinekwiocwiny.savhfresh.co.uk/) and
-the founder behind three products at the edge of AI, video, and the future of work.
+I founded [Tago](https://tago.social), a live mobile social video platform on iOS and Android,
+where I own the full product lifecycle: user research, UI/UX design, PRDs, engineering
+coordination, and post-launch iteration. I move fast without sacrificing craft.
 
-Most of my work is hands-on: clear product vision, sharp execution, and AI systems
-that do real things for real people.
+My background spans architecture (trained eye for hierarchy and visual detail), hands-on
+React Native development, and AI product management — which means I can reason about
+implementation, not just strategy.
 
 ---
 
 ## What I'm building
 
-- **[Tago](https://tago.social)** — an AI-powered video distribution social platform. Live and growing.
-- **[Aplique](https://www.aplique.work)** — an AI job platform that applies for you and tracks every application automatically. Live.
-- **[Moria.ai](https://morai.ai.savhlabs.co/)** — a video AI platform. Live.
+- **[Tago](https://tago.social)** — live mobile social video, chat & community platform (iOS & Android) — 25 releases shipped
+- **[Aplique](https://www.aplique.work)** — AI job platform that applies for roles and tracks every application automatically
+- **[Moria.ai](https://morai.ai.savhlabs.co/)** — AI system that generates short films and videos directly from books and scripts
 
 ---
 
 ## What I work on
 
-- **AI Product Strategy** — defining how AI features get built, explained, and trusted at scale
-- **0-to-1 Launches** — taking products from first principle to live, fast
-- **Video & Distribution** — intelligent video platforms, content delivery, and creator tooling
-- **Automation & Agents** — AI systems that take action on your behalf (job applications, workflows)
-- **Growth & GTM** — product-led growth, activation, retention, and go-to-market execution
-- **Cross-Functional Leadership** — aligning engineering, design, and business toward a single outcome
+- **Product Strategy & Roadmapping** — sharp PRDs, ruthless prioritisation, outcome-driven roadmaps aligned to business goals
+- **UI/UX Design** — user flows, high-fidelity screens, interaction design, and design systems across mobile and web
+- **AI Product Management** — translating complex generative AI pipelines into experiences non-technical users can trust and follow
+- **Mobile Product** — iOS and Android, shipping React Native features directly alongside engineering
+- **Growth & GTM** — activation loops, retention mechanics, go-to-market execution, and product-led growth
+- **Cross-Functional Leadership** — aligning engineering, design, and business; managing teams across product and build cycles
 
 ---
 
 ## About Me
 
-- 🏢 CEO of **SavhFresh Ltd**
-- 🤖 Building **Tago** (AI video distribution), **Aplique** (AI job agent), and **Moria.ai** (video AI)
-- 🚀 I operate at the speed of big tech with the ownership and focus of a founder
-- 🧠 Obsessed with clarity — sharp PRDs, ruthless prioritisation, outcome-driven roadmaps
-- 📊 Data-informed, not data-paralysed — I know when to ship and when to learn first
-- 🌍 Believer that great AI products are built by focused, well-aligned teams
+- 🚀 Founder & PM — [Tago](https://tago.social): 100+ frontend updates shipped, team of 7, live on iOS & Android
+- 🤖 Technical PM — [Moria.ai](https://morai.ai.savhlabs.co/): designed the full generative video UX end to end
+- 🏛️ Background in Architecture — spatial thinking, visual hierarchy, precision and craft
+- 📊 Data-informed decisions — I know when to ship and when to learn first
+- 🌍 Turkish, English & French
 
 ---
 
